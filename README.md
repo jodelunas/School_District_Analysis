@@ -1,6 +1,6 @@
 # School_District_Analysis
 ## Overview of the School District Analysis
-The purpose of this analysis is to replace Thomas High School's ninth grade reading and math scores to NaN, and repeat the analysis without these sxores.
+The purpose of this analysis is to replace Thomas High School's ninth grade reading and math scores to NaN, and repeat the analysis without these scores.
 ## Results
   - The district summary was not affected.
   - Only Thomas High School was affected in the school summary, by a minamal amount, shown in images below.
