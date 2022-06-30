@@ -14,3 +14,4 @@ The purpose of this analysis is to replace Thomas High School's ninth grade read
     - Scores by school size, saw no change.
     - Scores by school type, saw no change.
 ## Summary
+Removing Thomas High School's ninth grade reading and math scores had no significant change to the school district analysis. It only affected Thomas School. There were only fractional differences in the average math and reading score, and the percentage passing math and reading. The overall passing was also slightly lower when the ninth grade was removed. For this analysis it wasn't necessary to remove these scores, as it did not change the overall results.
